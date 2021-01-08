@@ -1,0 +1,9 @@
+RecyclerView -> 리스트뷰를 만들 때 이게 제일 좋음
+- 장점
+    - ListView의 개선판
+        - ViewHolder 포함
+    - 유연하다
+        - LayoutManager
+            - Linear -> 수직, 수평식으로 리스트 만듦
+            - Grid -> 크기가 일정한 바둑판 식으로 만듦
+            - StaggeredGrid -> 크기를 일정하지 않게 바둑판 식으로 만듦
