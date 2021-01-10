@@ -1,4 +1,4 @@
-package com.daehwan.myapplication.Android
+package com.daehwan.myapplication
 
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey

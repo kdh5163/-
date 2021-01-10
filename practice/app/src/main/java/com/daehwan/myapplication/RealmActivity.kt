@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
-import com.daehwan.myapplication.Android.School
 import io.realm.Realm
 import io.realm.RealmConfiguration
 
